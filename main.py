@@ -8,7 +8,6 @@ import time
 
 # load image
 pygame.init()
-pygame.mouse.set_cursor("tic-tac-toe.png")
 tictoe = pygame.image.load("tic.jfif")
 pygame.display.set_icon(tictoe)
 screen = pygame.display.set_mode([400,400])

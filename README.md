@@ -1,12 +1,13 @@
-# Tic-Tac-Toe
-TicTacToe
-
-RUN MAIN.PY
-must have python install
-and pip
-
-run pip.sh, by double clicking 
+Tic-Tac toe. 
 
 
+Hello
 
-FOR OUT SCHOOL FINAL PROJECT
+run from main.py
+
+must have pygame installed
+
+#How to install pygame
+
+run "pip install pygame"
+this will take a second. If already installed then you good to go
